@@ -1,0 +1,12 @@
+1. Users can log in to their accounts using their email and password or sign up if they don't have an account.
+2. Registering users mobile app collects their name, births of date, mobile phone number and payment credentials.
+3. Users can select a good from a catalog of items and place an order, also they should mention an adress,
+  if they have enough funds on their accounts and if a good is available in stock.
+4. If a good is not available in stock users promted editing an order or canceling it.
+5. If there is not enough funds available in user's accounts than user is informed.
+6. Then, funds are withdrawn and placed to packing and delivering.
+7. Receiving the delivery users can evaluate the service and leave a comment.
+8. Also, an invoice is send to user's email.
+
+
+
